@@ -1,0 +1,25 @@
+tcpmux  1  TCP   
+echo  7  UDP   
+echo  7  TCP   
+systat  11  TCP   
+netstat  15  TCP   
+ftp-data  20  TCP  File Transfer Protocol (data)  
+ftp  21  TCP  File Transfer Protocol  
+smtp  25  TCP  Simple Mail Transfer Protocol  
+time  37  TCP  Time Server  
+time  37  UDP  Time Server  
+name  42  UDP  Name Server  
+whois  43  TCP  nicname  
+domain  53  UDP   
+domain  53  TCP   
+tftp  69  UDP   
+rje  77  TCP   
+finger  79  TCP   
+link  87  TCP  ttylink  
+supdup  95  TCP   
+hostname  101  TCP  hostname  
+pop-2  109  TCP  Post Office Protocol  
+uucp-path  117  TCP   
+nntp  119  TCP  Network News Transfer Protocol  
+ntp  123  TCP  Network Time Protocol  
+
